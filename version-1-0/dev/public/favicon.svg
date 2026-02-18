@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="10" fill="#4f46e5"/>
+  <g fill="white">
+    <!-- Top node -->
+    <rect x="35" y="10" width="30" height="18" rx="3"/>
+    <!-- Middle nodes -->
+    <rect x="15" y="41" width="30" height="18" rx="3"/>
+    <rect x="55" y="41" width="30" height="18" rx="3"/>
+    <!-- Bottom node -->
+    <rect x="35" y="72" width="30" height="18" rx="3"/>
+    <!-- Edges -->
+    <line x1="50" y1="28" x2="30" y2="41" stroke="white" stroke-width="2"/>
+    <line x1="50" y1="28" x2="70" y2="41" stroke="white" stroke-width="2"/>
+    <line x1="30" y1="59" x2="50" y2="72" stroke="white" stroke-width="2"/>
+    <line x1="70" y1="59" x2="50" y2="72" stroke="white" stroke-width="2"/>
+  </g>
+</svg>
